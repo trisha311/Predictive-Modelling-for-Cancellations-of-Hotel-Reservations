@@ -1,6 +1,6 @@
 ## Predictive-Modelling-for-Cancellations-of-Hotel-Reservations
 
-With the rise of online bookings and increased ease in finding and making hotel reservations, hotels are faced with increased numbers of cancelled reservations and increased financial losses unused rooms, reduced room rates, and commission charges from discount travel sites.
+With the rise of online bookings and increased ease in finding and making hotel reservations, hotels are faced with increased numbers of cancelled reservations and financial losses due to unused rooms, reduced room rates, and commission charges from discount travel sites.
 
 I have constructed linear classification models, random forest classifier models, and k nearest neighbor models for predicting whether a specific reservation will be cancelled based on guest and reservation details.
 
